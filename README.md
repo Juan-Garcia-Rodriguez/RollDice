@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is a Random Roll Dice a made with flutter and dart.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
